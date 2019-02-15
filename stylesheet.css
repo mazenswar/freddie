@@ -84,10 +84,10 @@ font-family: 'Staatliches', cursive;
 #github {
     height: 7vw;
     width: 7vw;
-    background: url("img/githubF.svg");
+    background: url("img/githubF.png");
     background-color: white;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     border-radius: 100%;
     /* margin: 5vh auto 5vh auto; */
 
@@ -96,10 +96,10 @@ font-family: 'Staatliches', cursive;
 #linkedin {
     height: 7vw;
     width: 7vw;
-    background: url("img/linkedin.svg");
+    background: url("img/linkedin.png");
     background-color: white;
     background-repeat: no-repeat;
-    background-size: fill;
+    background-size: contain;
     border-radius: 100%;
     /* margin: 5vh auto 5vh auto; */
 
