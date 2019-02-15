@@ -44,6 +44,6 @@ $("#supersonic").click(function () {
 $("#bicycle").click(function () {
     stop_playing();
     bicycle.play();
-    $("#gif").css({ "background": "url('img/giphy3.gif')", "background-repeat": "no-repeat", "background-size": "cover" });
+    $("#gif").css({ "background": "url('img/gif7.gif')", "background-repeat": "no-repeat", "background-size": "cover" });
 })
 
